@@ -76,7 +76,6 @@
     border-radius: 8px;
 }
 
-/* -------------------form---------------------- */
 
 #showFormBtn {
     cursor: pointer;
@@ -89,8 +88,6 @@
     margin-left: 265px;
   
 }
-
-
 
 #contactFormContainer {
     display: none;
@@ -108,8 +105,6 @@
     opacity: 0;
     transition: opacity 0.8s, transform 0.8s; /* Add transition for opacity and transform */
 }
-
-
 
 
 #contactForm h2 {
@@ -229,9 +224,6 @@
 }
 
 
-
-
-/* ----------------portfolio---------------- */
 
 
 
@@ -371,9 +363,6 @@
 }
 
 
-
-/* ---------------slider------------------- */
-
 .work {
     max-width: 1100px;
     width: 100%;
@@ -437,9 +426,6 @@
 }
 
 
-/* -------------------ABOUT----------------------- */
-
-
 #about{
     background: #ffffff;
     color: black;
@@ -489,8 +475,6 @@
 
 
 
-
-
 .about-col h3{
     margin-top: 20px;
     margin-bottom: 15px;
@@ -524,8 +508,6 @@
 }
 
 
-
-
 .project-col-2{
     flex-basis: 31%;
 }
@@ -555,9 +537,6 @@
     background-color: #ff3147 !important;
     color: #ffffff !important;
 }
-
-
-/* ------------------------growth-stats--------------------- */
 
 
 #stats{
@@ -591,7 +570,6 @@
     font-weight: 300;
 }
 
-/* --------------------feedback----------------------- */
 
 #feedback{
     background: #ffffff;
